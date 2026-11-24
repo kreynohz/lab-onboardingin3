@@ -1,0 +1,13 @@
+name: Quality Gate
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+jobs:
+  quality-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check .editorconfig
+        run: test -f .editorconfig && echo "EditorConfig OK"
