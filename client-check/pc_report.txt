@@ -1,0 +1,136 @@
+================================================== 
+             ДИАГНОСТИКА КОМПЬЮТЕРА 
+================================================== 
+ 
+[Операционная система] 
+Название: Microsoft Windows 11 Pro 
+Версия: 10.0.26200 
+ 
+[Процессор] 
+Модель: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz 
+ 
+[Оперативная память] 
+Всего памяти: 8 ГБ 
+Свободно памяти: 2 ГБ 
+ 
+[Диск C] 
+Общий размер: 475 ГБ 
+Свободно: 58 ГБ 
+ 
+[Установленные программы] 
+- Koala Clash 
+- Intel® Hardware Accelerated Execution Manager 
+- Pantum P2200 Series 
+- PostgreSQL 18  
+- PyCharm 2026.2.2 
+- Riot Vanguard 
+- Bitburner 
+- WinRAR 6.20 (64-разрядная) 
+- PlayStation(R) PC SDK Runtime 
+- Python 3.11.9 pip Bootstrap (64-bit) 
+- Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 
+- Microsoft Update Health Tools 
+- Microsoft Windows Application Compatibility Fix Database 
+- Python 3.7.9 Utility Scripts (64-bit) 
+- Java 8 Update 351 (64-bit) 
+- Python 3.11.9 Utility Scripts (64-bit) 
+- UE4 Prerequisites (x64) 
+- Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 
+- Microsoft Server Speech Platform Runtime (x64) 
+- Happ - Proxy Utility 4.1.3(604) 
+- Xbox Service 
+- Python 3.11.9 Documentation (64-bit) 
+- Microsoft .NET Runtime - 10.0.10 (x64) 
+- LibreOffice 25.8.3.2 
+- Python 3.11.9 Tcl/Tk Support (64-bit) 
+- REDlauncher 
+- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161 
+- Python 3.7.9 pip Bootstrap (64-bit) 
+- Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247 
+- NitroSense Service 
+- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 
+- Microsoft .NET Host - 10.0.10 (x64) 
+- Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 
+- Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247 
+- Python 3.11.9 Standard Library (64-bit) 
+- Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 
+- Python 3.11.9 Test Suite (64-bit) 
+- Microsoft Visual C++ 2005 Redistributable (x64) 
+- Python 3.11.9 Core Interpreter (64-bit) 
+- NVIDIA Графический драйвер 610.62 
+- NVIDIA Системное программное обеспечение PhysX 9.23.1019 
+- NVIDIA FrameView SDK 1.5.11821.36727370 
+- NVIDIA Install Application 
+- NVIDIA Platform Controllers and Framework 
+- Update for x64-based Windows Systems (KB5001716) 
+- Python 3.7.9 Development Libraries (64-bit) 
+- Python 3.11.9 Executables (64-bit) 
+- Python 3.7.9 Executables (64-bit) 
+- Python 3.11.9 Development Libraries (64-bit) 
+- Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 
+- Python 3.7.9 Documentation (64-bit) 
+- Microsoft .NET Host FX Resolver - 10.0.10 (x64) 
+- Microsoft GameInput 
+- Python 3.7.9 Test Suite (64-bit) 
+- Python 3.7.9 Tcl/Tk Support (64-bit) 
+- Python 3.7.9 Core Interpreter (64-bit) 
+- Microsoft Windows Desktop Runtime - 10.0.10 (x64) 
+- Python 3.7.9 Standard Library (64-bit) 
+- Google Chrome 
+- IntelliJ IDEA Community Edition 2022.3.2 
+- Copilot 
+- Microsoft Edge 
+- Среда выполнения Microsoft Edge WebView2 Runtime 
+- PunkBuster Services 
+- qBittorrent 
+- Steam 
+- Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 
+- Kinect for Windows Speech Recognition Language Pack (en-NZ) 
+- Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247 
+- Microsoft Windows Desktop Runtime - 6.0.10 (x86) 
+- Radmin VPN 2.1.2 
+- Microsoft Server Speech Recognition Language - TELE (nl-NL) 
+- Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 
+- Epic Games Launcher 
+- Microsoft Server Speech Recognition Language - TELE (en-IN) 
+- Microsoft .NET Host - 6.0.10 (x86) 
+- NVIDIA PhysX 
+- Launcher Prerequisites (x64) 
+- Kinect for Windows Speech Recognition Language Pack (en-AU) 
+- Java Auto Updater 
+- Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36247 
+- v2RayTun, версия 3.8.12.0 
+- Kinect for Windows Speech Recognition Language Pack (fr-FR) 
+- Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36247 
+- Kinect for Windows Speech Recognition Language Pack (fr-CA) 
+- Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 
+- Microsoft Windows Desktop Runtime 10.0.10 (x64) 
+- Kinect for Windows Speech Recognition Language Pack (de-DE) 
+- Kinect for Windows Speech Recognition Language Pack (en-US) 
+- MHRD, версия 1.00 
+- Microsoft Server Speech Recognition Language - TELE (ru-RU) 
+- Kinect for Windows Speech Recognition Language Pack (it-IT) 
+- Microsoft .NET Runtime - 6.0.10 (x86) 
+- Kinect for Windows Speech Recognition Language Pack (en-IE) 
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 
+- Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247 
+- Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 
+- Kinect for Windows Speech Recognition Language Pack (en-CA) 
+- Microsoft Windows Desktop Runtime - 6.0.10 (x86) 
+- Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 
+- Kinect for Windows Speech Recognition Language Pack (en-GB) 
+- Epic Online Services 
+- Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 
+- Microsoft Server Speech Recognition Language - TELE (zh-CN) 
+- Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
+- Microsoft Server Speech Recognition Language - TELE (pl-PL) 
+- Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 
+- Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 
+- Microsoft XNA Framework Redistributable 4.0 Refresh 
+- Kinect for Windows Speech Recognition Language Pack (es-MX) 
+- Microsoft .NET Host FX Resolver - 6.0.10 (x86) 
+- Kinect for Windows Speech Recognition Language Pack (ja-JP) 
+- Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 
+- Python Launcher 
+- Kinect for Windows Speech Recognition Language Pack (es-ES) 
+- Microsoft Server Speech Recognition Language - TELE (pt-BR) 
